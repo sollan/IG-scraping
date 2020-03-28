@@ -12,5 +12,4 @@ information saved:
 
 posting date, caption, hashtags involved in caption and OP comments, number of likes, and number comments
 
-Use with consent
-
+The use of this should comply with GDPR :) Ask for consent before you save their data.
