@@ -2,7 +2,7 @@
 
 Instagram scraping tool
 
-Configure: path to chromedriver (or other web driver), IG account, and password.
+Configure: path to chromedriver (or other web driver), IG account to scrape, your IG account, and password.
 
 Right now, ReadPage collects the links to all the posts of a given user and saves them in a csv file (links.csv). Because it involves scrolling to bottom (to get all posts), you need to use your own account and password for auto-login. 
 
